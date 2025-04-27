@@ -16,8 +16,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crisnelly&layout=compact&theme=default&card_width=300" alt="Top Languages">
 </div>
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
