@@ -4,8 +4,6 @@
   💻 Information Systems Student | 🔧 Tech Enthusiast | ✨ Lifelong Learner
 </p>
 
----
-
 ## 🚀 About Me
 
 - 🎓 I'm currently pursuing a degree in **Information Systems** at **UNASP**.  
@@ -17,8 +15,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crisnelly&layout=compact&theme=tokyonight&card_width=300" alt="Top Languages">
 </div>
-
----
 
 ## 🛠️ Tech Stack
 
