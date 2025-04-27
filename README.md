@@ -4,8 +4,6 @@
   💻 Information Systems Student | 🔧 Tech Enthusiast | ✨ Lifelong Learner
 </p>
 
----
-
 ## 🚀 About Me
 
 - 🎓 I'm currently pursuing a degree in **Information Systems** at **UNASP**.  
@@ -24,6 +22,6 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,git,github" alt="Tech Stack">
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" alt="Tech Stack">
 
 </div>
