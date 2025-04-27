@@ -20,6 +20,6 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,git,github" alt="Tech Stack">
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" alt="Tech Stack">
 
 </div>
