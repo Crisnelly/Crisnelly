@@ -13,7 +13,7 @@
 - 💬 I'm enthusiastic, curious, and always ready to face new challenges.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crisnelly&layout=compact&theme=default&card_width=300" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crisnelly&layout=compact&theme=black&card_width=300" alt="Top Languages">
 </div>
 
 ## 🛠️ Tech Stack
